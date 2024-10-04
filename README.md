@@ -17,6 +17,7 @@ O desafio consiste em implementar um pequeno e-commerce de produtos gamer que de
   - [ ] Filtragem de produtos por preço
   - [ ] Busca por nome do produto
   - [ ] Busca por conteúdo da descrição do produto
+- [ ] Detalhes de produto
 - [ ] Adicionar e remover produtos do carrinho
 - [ ] Finalizar compra
 
@@ -26,7 +27,7 @@ O desafio consiste em implementar um pequeno e-commerce de produtos gamer que de
 
 Chegou a hora de colocar a mão na massa!
 
-- Siga [esse protótipo](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
+- Use o conteúdo do diretório `images` de referência
 - Utilize React.js, Typescript e Vite.js
 - Faça a estilização com Tailwindcss
 - Utilize o local storage para gerenciar o carrinho
@@ -42,8 +43,7 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Gerenciamento de estado
 - Componentização
 - Responsividade
-- Preocupação com usabilidade
-- Preocupação com acessibilidade
+- Usabilidade
 - Padrões de código
 - Padrão de commits
 
